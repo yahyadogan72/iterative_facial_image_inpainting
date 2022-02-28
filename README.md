@@ -17,7 +17,7 @@ The preprint version of the above paper is available at: https://arxiv.org/abs/2
 ### Usage
 
 1. Clone this repo: git clone https://github.com/yahyadogan72/iterative_facial_image_inpainting.git
-2. Download [CelebA](https://github.com/tkarras/progressive_growing_of_gans/) dataset, then put it in the following directory structure:  
+2. Download [CelebA](https://github.com/tkarras/progressive_growing_of_gans/) dataset (note: convert delta files to png format), then put it in the following directory structure:  
     |-Iterative_facial_image_inpainting  
     |---Discriminator  
     |----dataset/real
