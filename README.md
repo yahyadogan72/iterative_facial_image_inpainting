@@ -7,7 +7,6 @@ The preprint version of the above paper is available at: https://arxiv.org/abs/2
 
 ![Proposed model Architecture](https://github.com/yahyadogan72/iterative_facial_image_inpainting/blob/main/images/method.PNG?raw=true)
 ![Results](https://github.com/yahyadogan72/iterative_facial_image_inpainting/blob/main/images/figure%201.PNG?raw=true)
-
 ### Requirements
 - Spyder 3.3.x (recommended)
 - Python 3.6
