@@ -8,10 +8,10 @@ The preprint version of the above paper is available at: https://arxiv.org/abs/2
 ![Proposed model Architecture](https://github.com/yahyadogan72/iterative_facial_image_inpainting/blob/main/images/method.PNG?raw=true)
 <img src="https://github.com/yahyadogan72/iterative_facial_image_inpainting/blob/main/images/figure%201.PNG">
 ### Requirements
-- Spyder 3.3.x (recommended)
+- Spyder 4.2.x (recommended)
 - Python 3.6
 - Keras 2.2.4
-- Tensorflow-gpu 1.12.0
+- Tensorflow-gpu 1.13.1
 
 ### Usage
 
