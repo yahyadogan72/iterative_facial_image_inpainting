@@ -14,7 +14,7 @@ import pickle
 from keras.models import load_model
 from keras.applications.vgg16 import preprocess_input
 import os
-from Unet.Unet_architecture import Unet_arc
+from Unet.Unet_architecture import Unet
 import glob
 
 sess_config = tf.ConfigProto(gpu_options=tf.GPUOptions(allow_growth=True))
